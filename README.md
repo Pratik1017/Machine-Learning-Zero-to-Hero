@@ -4,21 +4,6 @@
 
 ---
 
-## Table of Contents
-
-1. [About](#about)  
-2. [Structure / Curriculum](#structure-/-curriculum)  
-3. [Getting Started](#getting-started)  
-4. [Prerequisites](#prerequisites)  
-5. [Usage](#usage)  
-6. [Projects & Notebooks](#projects-&-notebooks)  
-7. [Contribution Guidelines](#contribution-guidelines)  
-8. [Roadmap](#roadmap)  
-9. [License](#license)  
-10. [Contact](#contact)  
-
----
-
 ## About
 
 This repository is meant for a **comprehensive learning path in Machine Learning**, from foundational concepts to advanced techniques, using well-documented Jupyter notebooks, hands-on examples, and real-world project work. It is ideal for learners who:
